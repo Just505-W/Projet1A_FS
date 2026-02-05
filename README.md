@@ -52,7 +52,7 @@ Le projet se concentre sur la conception et fabrication de 3 PCB:
 
 
 ## Odométrie Spécifications : 
-* Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
+* Mesurer vitesse de rotations allant de 0 à 5200 tr/min avec une précision de 10 tr/min
 
 ### Composants nécessaires + Datasheet : 
 ### Ce qu'il faut faire : 
