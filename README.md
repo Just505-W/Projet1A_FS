@@ -1,26 +1,18 @@
 # Projet1A_FS
 Bienvenu sur le dépot GitHub d'un des groupes de Projet de première année de l'ENSEA. \
-Participants du projet : 
-BALLARD Athénaïs        NOICI Amélie
-EL GAAMOUCH Aïssa       VENTURA Arthur 
-ELICE Bastien           WOELFFEL Justine
+Participants du projet : \
+BALLARD Athénaïs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOICI Amélie\
+EL GAAMOUCH Aïssa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VENTURA Arthur\
+ELICE Bastien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WOELFFEL Justine\
 GERVAIS Joseph
 
-
-
-
-
-
-
-
+Professeur encadrant : M.Tauvel
 
 ## Organisation :
 Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-### Plan : 
-* Jeudi 05/02 : GitHub en place, Datasheets, Spec et achats si il reste du temps.
-* Jeudi 12/02 : Schémas KiKad finis.
-* Jeudi 19/02 : PCB finis .
+
+:warning: ***Remplir le fichier Suivi de projet.md à la fin de chaque séance !***
 
 ### Chef de projet : 
 * Justine
@@ -43,7 +35,7 @@ Ce projet a pour objectif de réaliser des composants utiles au bon fonctionneme
  
 Le projet se concentre sur la conception et la fabrication de 3 PCB:
  
-- Un capteur d'**Odométire** : il calcule la vitesse de rotation des roues de la voitures et la transmet au bus CAN. 
+- Un capteur d'**Odométrie** : il calcule la vitesse de rotation des roues de la voitures et la transmet au bus CAN. 
 
 - Un capteur **ToF** (Time of flight) : il calcule les distances par rapport aux objets environnants et doit pouvoir assurer un arrêt de sécurité. 
 
@@ -52,7 +44,14 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 
 ## Odométrie Spécifications : 
+
+### Composants nécessaires + Datasheet : 
+* Connecteur USB
+
+### Ce qu'il faut faire : 
 * Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
+
+## Datalogger Spécifications : 
 
 ### Composants nécessaires + Datasheet : 
 
@@ -69,6 +68,7 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 ### Ce qu'il faut faire : 
 
+<<<<<<< HEAD
 ## Datalogger Spécifications : 
 ### Ce qu'il faut faire + Datasheet : 
 
@@ -81,6 +81,8 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 * Un interrupteur: 
 
 * 2 LED (LED de fonctionnement et de test) : 
+=======
+>>>>>>> f23080328a06bf0b9811f2919c60db11811bd9d7
 
 ## Achats :
 
