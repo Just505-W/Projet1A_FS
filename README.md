@@ -55,11 +55,32 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 * Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
 
 ### Composants nécessaires + Datasheet : 
+
+* Microcontrôleur: 
+
+* Régulateur de tension:
+
+* 4 connecteurs d'entrée:sortie:
+
+* Un interrupteur: 
+
+* 2 LED (LED de fonctionnement et de test) : 
+
+
 ### Ce qu'il faut faire : 
 
 ## Datalogger Spécifications : 
 ### Ce qu'il faut faire + Datasheet : 
 
+* Microcontrôleur: 
+
+* Gestionnaire d'alimentation:
+
+* 4 connecteurs:
+
+* Un interrupteur: 
+
+* 2 LED (LED de fonctionnement et de test) : 
 
 ## Achats :
 
