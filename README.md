@@ -14,6 +14,20 @@ Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writi
 
 :warning: ***Remplir le fichier Suivi de projet.md à la fin de chaque séance !***
 
+## Description du projet: 
+
+Ce projet a pour objectif de réaliser des composants utiles au bon fonctionnement d'une monoplace dans le cadre du concours **FORMULA STUDENT**. Un de ces composants est lui tiré du concours **PERSEUS**. 
+ 
+Le projet se concentre sur la conception et la fabrication de 3 PCB:
+ 
+- Un capteur d'**Odométrie** : il calcule la vitesse de rotation des roues de la voitures et la transmet au bus CAN. 
+
+- Un capteur **ToF** (Time of flight) : il calcule les distances par rapport aux objets environnants et doit pouvoir assurer un arrêt de sécurité. 
+
+- Un **Datalogger**:  il récupère les données du bus CAN en temps réel et les stock dans un carte SD, qui servira de "boîte noire" en cas de destruction de l'appareil. Il sera également doté d'une application codée en Java (référence à notre super cours de **programmation orientée objet**) afin d'avoir une interface graphique utile à la conduite.
+
+## Rôles
+
 ### Chef de projet : 
 * Justine
 
@@ -28,18 +42,6 @@ Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writi
 ### Software :
 * Amélie
 * Bastien 
-
-## Description du projet: 
-
-Ce projet a pour objectif de réaliser des composants utiles au bon fonctionnement d'une monoplace dans le cadre du concours **FORMULA STUDENT**. Un de ces composants est lui tiré du concours **PERSEUS**. 
- 
-Le projet se concentre sur la conception et la fabrication de 3 PCB:
- 
-- Un capteur d'**Odométrie** : il calcule la vitesse de rotation des roues de la voitures et la transmet au bus CAN. 
-
-- Un capteur **ToF** (Time of flight) : il calcule les distances par rapport aux objets environnants et doit pouvoir assurer un arrêt de sécurité. 
-
-- Un **Datalogger**:  il récupère les données du bus CAN en temps réel et les stock dans un carte SD, qui servira de "boîte noire" en cas de destruction de l'appareil. Il sera également doté d'une application codée en Java (référence à notre super cours de **programmation orientée objet**) afin d'avoir une interface graphique utile à la conduite.
 
 
 
