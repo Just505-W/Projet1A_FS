@@ -1,6 +1,7 @@
 # Deadline 
 Ce document vous permet de voir les dates limites qui seraient idéales à atteindre. Puis les devoirs à effectuer pour la scéance suivante.
 
+## Dates à venir
 **5 Février 2026**
 - Mettre GitHub en place
 - Importer les Datasheets
@@ -14,3 +15,5 @@ Ce document vous permet de voir les dates limites qui seraient idéales à attei
 - Finir les PCB
 
 **20 Février 2026** : Vacances d'hiver
+
+## Devoirs
