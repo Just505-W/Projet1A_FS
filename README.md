@@ -10,12 +10,15 @@
 
 ### Odométrie : 
 * Athénaïs
+* Arthur
 
 ### Datalogger : 
 * Aïssa
+* Joseph
 
 ### Software :
 * Amélie
+
 
 ### Hardware : 
 
