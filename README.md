@@ -12,6 +12,7 @@ Commet éditer un fichier GitHub : https://docs.github.com/fr/get-started/writin
 
 ### Odométrie : 
 * Athénaïs
+* Arthur
 
 ### Datalogger : 
 * Aïssa
