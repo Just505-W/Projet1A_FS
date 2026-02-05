@@ -22,8 +22,6 @@ Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writi
 * Amélie
 
 
-### Hardware : 
-
 ## Odométrie Spécifications : 
 ### Composants nécessaires + Datasheet : 
 ### Ce qu'il faut faire : 
