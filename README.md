@@ -17,6 +17,8 @@ GERVAIS Joseph
 ## Organisation :
 Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+:warning: ***Remplir le fichier Suivi de projet.md à la fin de chaque séance !***
+
 ### Plan : 
 * Jeudi 05/02 : GitHub en place, Datasheets, Spec et achats si il reste du temps.
 * Jeudi 12/02 : Schémas KiKad finis.
@@ -39,9 +41,9 @@ Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writi
 
 ## Description du projet: 
 
-Ce projet a pour but de réaliser des composants utiles au bon fonctionnement d'un monoplace dans le cadre du concours **FORMULA STUDENT**. Un de ces composants est lui tiré du concours **PERSEUS**. 
+Ce projet a pour objectif de réaliser des composants utiles au bon fonctionnement d'une monoplace dans le cadre du concours **FORMULA STUDENT**. Un de ces composants est lui tiré du concours **PERSEUS**. 
  
-Le projet se concentre sur la conception et fabrication de 3 PCB:
+Le projet se concentre sur la conception et la fabrication de 3 PCB:
  
 - Un capteur d'**Odométire** : il calcule la vitesse de rotation des roues de la voitures et la transmet au bus CAN. 
 
@@ -52,13 +54,15 @@ Le projet se concentre sur la conception et fabrication de 3 PCB:
 
 
 ## Odométrie Spécifications : 
-*Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
 
 ### Composants nécessaires + Datasheet : 
 ### Ce qu'il faut faire : 
+* Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
 
 ## Datalogger Spécifications : 
-### Ce qu'il faut faire + Datasheet : 
+
+### Composants nécessaires + Datasheet : 
+### Ce qu'il faut faire : 
 
 
 ## Achats :
