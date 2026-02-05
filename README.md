@@ -6,13 +6,7 @@ EL GAAMOUCH Aïssa       VENTURA Arthur
 ELICE Bastien           WOELFFEL Justine
 GERVAIS Joseph
 
-
-
-
-
-
-
-
+Professeur encadrant : M.Tauvel
 
 ## Organisation :
 Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
