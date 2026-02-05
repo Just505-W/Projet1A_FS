@@ -20,16 +20,16 @@
 ### Hardware : 
 
 ## Odométrie Spécifications : 
-### Composants nécessaires : 
+### Composants nécessaires + Datasheet : 
 ### Ce qu'il faut faire : 
 
-## Datalogger Spécifications : 
+## Datalogger Spécifications + Datasheet : 
 ### Ce qu'il faut faire : 
 
 
 ## Achats :
 
- 
+
 
 ## Athénaïs fait l'odométrie
 ## Amélie fait du software ^^
