@@ -45,7 +45,7 @@ Ce projet a pour objectif de réaliser des composants utiles au bon fonctionneme
  
 Le projet se concentre sur la conception et la fabrication de 3 PCB:
  
-- Un capteur d'**Odométire** : il calcule la vitesse de rotation des roues de la voitures et la transmet au bus CAN. 
+- Un capteur d'**Odométrie** : il calcule la vitesse de rotation des roues de la voitures et la transmet au bus CAN. 
 
 - Un capteur **ToF** (Time of flight) : il calcule les distances par rapport aux objets environnants et doit pouvoir assurer un arrêt de sécurité. 
 
