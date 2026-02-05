@@ -17,7 +17,7 @@ GERVAIS Joseph
 ## Organisation :
 Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-:Warning: *** Remplir le fichier Suivi de projet.md à la fin de chaque séance ! ***
+:warning: ***Remplir le fichier Suivi de projet.md à la fin de chaque séance !***
 
 ### Plan : 
 * Jeudi 05/02 : GitHub en place, Datasheets, Spec et achats si il reste du temps.
