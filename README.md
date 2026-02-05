@@ -39,7 +39,7 @@ Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writi
 
 ## Description du projet: 
 
-Ce projet a pour but de réaliser des composants utiles au bon fonctionnement d'une monoplace dans le cadre du concours **FORMULA STUDENT**. Un de ces composants est lui tiré du concours **PERSEUS**. 
+Ce projet a pour objectif de réaliser des composants utiles au bon fonctionnement d'une monoplace dans le cadre du concours **FORMULA STUDENT**. Un de ces composants est lui tiré du concours **PERSEUS**. 
  
 Le projet se concentre sur la conception et la fabrication de 3 PCB:
  
