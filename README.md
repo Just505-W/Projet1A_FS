@@ -1,10 +1,27 @@
-<<<<<<< HEAD
-# Projet1A\_FS
-
-
-=======
 # Projet1A_FS
+Bienvenu sur le dépot GitHub d'un des groupes de Projet de première année de l'ENSEA. \
+Participants du projet : 
+BALLARD Athénaïs        NOICI Amélie
+EL GAAMOUCH Aïssa       VENTURA Arthur 
+ELICE Bastien           WOELFFEL Justine
+GERVAIS Joseph
+
+
+
+
+
+
+
+
+
 ## Organisation :
+Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+### Plan : 
+* Jeudi 05/02 : GitHub en place, Datasheets, Spec et achats si il reste du temps.
+* Jeudi 12/02 : Schémas KiKad finis.
+* Jeudi 19/02 : PCB finis .
+
 ### Chef de projet : 
 * Justine
 
@@ -14,11 +31,25 @@
 
 ### Datalogger : 
 * Aïssa
+* Joseph
 
 ### Software :
 * Amélie
+* Bastien 
 
-### Hardware : 
+## Description du projet: 
+
+Ce projet a pour but de réaliser des composants utiles au bon fonctionnement d'un monoplace dans le cadre du concours **FORMULA STUDENT**. Un de ces composants est lui tiré du concours **PERSEUS**. 
+ 
+Le projet se concentre sur la conception et fabrication de 3 PCB:
+ 
+- Un capteur d'**Odométire** : il calcule la vitesse de rotation des roues de la voitures et la transmet au bus CAN. 
+
+- Un capteur **ToF** (Time of flight) : il calcule les distances par rapport aux objets environnants et doit pouvoir assurer un arrêt de sécurité. 
+
+- Un **Datalogger**:  il récupère les données du bus CAN en temps réel et les stock dans un carte SD, qui servira de "boîte noire" en cas de destruction de l'appareil. Il sera également doté d'une application codée en Java (référence à notre super cours de **programmation orientée objet**) afin d'avoir une interface graphique utile à la conduite.
+
+
 
 ## Odométrie Spécifications : 
 *Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
@@ -26,15 +57,11 @@
 ### Composants nécessaires + Datasheet : 
 ### Ce qu'il faut faire : 
 
-## Datalogger Spécifications + Datasheet : 
-### Ce qu'il faut faire : 
+## Datalogger Spécifications : 
+### Ce qu'il faut faire + Datasheet : 
 
 
 ## Achats :
 
 
-
-## Athénaïs fait l'odométrie
-## Amélie fait du software ^^
-* Aïssa fait le datalogger
 >>>>>>> c64e1743fa70fd04e587175608d12b696c1a371c
