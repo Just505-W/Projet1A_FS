@@ -26,8 +26,8 @@ Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writi
 ### Composants nécessaires + Datasheet : 
 ### Ce qu'il faut faire : 
 
-## Datalogger Spécifications + Datasheet : 
-### Ce qu'il faut faire : 
+## Datalogger Spécifications : 
+### Ce qu'il faut faire + Datasheet : 
 
 
 ## Achats :
