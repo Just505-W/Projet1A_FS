@@ -4,6 +4,33 @@
 
 =======
 # Projet1A_FS
+## Organisation :
+### Chef de projet : 
+* Justine
+
+### Odométrie : 
+* Athénaïs
+
+### Datalogger : 
+* Aïssa
+
+### Software :
+* Amélie
+
+### Hardware : 
+
+## Odométrie Spécifications : 
+### Composants nécessaires : 
+### Ce qu'il faut faire : 
+
+## Datalogger Spécifications : 
+### Ce qu'il faut faire : 
+
+
+## Achats :
+
+ 
+
 ## Athénaïs fait l'odométrie
 ## Amélie fait du software ^^
 * Aïssa fait le datalogger
