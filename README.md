@@ -1,11 +1,9 @@
 # Projet1A_FS
 Bienvenu sur le dépot GitHub d'un des groupes de Projet de première année de l'ENSEA. \
-Participants du projet : 
-
-| BALLARD Athénaïs | NOICI Amélie |
-
-EL GAAMOUCH Aïssa &nbsp;&nbsp; VENTURA Arthur 
-ELICE Bastien           WOELFFEL Justine
+Participants du projet : \
+BALLARD Athénaïs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOICI Amélie\
+EL GAAMOUCH Aïssa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VENTURA Arthur\
+ELICE Bastien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WOELFFEL Justine\
 GERVAIS Joseph
 
 Professeur encadrant : M.Tauvel
