@@ -7,10 +7,13 @@ Ce document vous permet de voir les dates limites qui seraient idéales à attei
 - Importer les Datasheets
 - Spec 
 - Achats si il reste du temps
+
 **12 Février 2026**
 - Finir les schémas KiKad finis.
+
 **19 Février 2026**
 - Finir les PCB
+
 **20 Février 2026** : Vacances d'hiver
 
 ## Devoirs
