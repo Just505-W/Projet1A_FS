@@ -10,6 +10,7 @@
 
 ### Odométrie : 
 * Athénaïs
+* Arthur
 
 ### Datalogger : 
 * Aïssa
