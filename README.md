@@ -60,7 +60,9 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 * Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
 
 ## Datalogger Spécifications : 
-### Ce qu'il faut faire + Datasheet : 
+
+### Composants nécessaires + Datasheet : 
+### Ce qu'il faut faire : 
 
 
 ## Achats :
