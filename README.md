@@ -21,6 +21,8 @@
 ### Hardware : 
 
 ## Odométrie Spécifications : 
+*Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
+
 ### Composants nécessaires + Datasheet : 
 ### Ce qu'il faut faire : 
 
