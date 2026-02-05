@@ -19,11 +19,6 @@ Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writi
 
 :warning: ***Remplir le fichier Suivi de projet.md à la fin de chaque séance !***
 
-### Plan : 
-* Jeudi 05/02 : GitHub en place, Datasheets, Spec et achats si il reste du temps.
-* Jeudi 12/02 : Schémas KiKad finis.
-* Jeudi 19/02 : PCB finis .
-
 ### Chef de projet : 
 * Justine
 
