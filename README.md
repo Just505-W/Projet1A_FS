@@ -49,6 +49,7 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 ### Composants nécessaires + Datasheet : 
 
+<<<<<<< HEAD
 
 * Microcontrôleur: 
 
@@ -62,6 +63,8 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 * 2 LED (LED de fonctionnement et de test) : 
 
+=======
+>>>>>>> 4908f458fedf534541fa10953d16ddbb23e31abd
 
 ### Ce qu'il faut faire : 
 * Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
@@ -83,7 +86,7 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 ### Ce qu'il faut faire : 
 
-<<<<<<< HEAD
+
  
 =======
 >>>>>>> f23080328a06bf0b9811f2919c60db11811bd9d7
