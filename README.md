@@ -48,7 +48,23 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 ## Odométrie Spécifications : 
 
 ### Composants nécessaires + Datasheet : 
-* Connecteur USB
+
+<<<<<<< HEAD
+
+* Microcontrôleur: 
+
+* Régulateur de tension:
+
+* Connecteur USB: 
+
+* 4 connecteurs d'entrée:sortie:
+
+* Un interrupteur: 
+
+* 2 LED (LED de fonctionnement et de test) : 
+
+=======
+>>>>>>> 4908f458fedf534541fa10953d16ddbb23e31abd
 
 ### Ce qu'il faut faire : 
 * Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
@@ -56,8 +72,24 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 ## Datalogger Spécifications : 
 
 ### Composants nécessaires + Datasheet : 
+
+* Microcontrôleur: 
+
+* Régulateur de tension:
+
+* 4 connecteurs d'entrée:sortie:
+
+* Un interrupteur: 
+
+* 2 LED (LED de fonctionnement et de test) : 
+
+
 ### Ce qu'il faut faire : 
 
+
+ 
+=======
+>>>>>>> f23080328a06bf0b9811f2919c60db11811bd9d7
 
 ## Achats :
 
