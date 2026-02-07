@@ -28,6 +28,10 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 ## Rôles
 
+| Chef de projet | Odométrie | Datalogger | Software | 
+| :---: | :---: | :---: | :---: |
+| Justine | Athénaïs | Aïssa | Amélie |
+
 ### Chef de projet : 
 * Justine
 
@@ -92,6 +96,5 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 >>>>>>> f23080328a06bf0b9811f2919c60db11811bd9d7
 
 ## Achats :
-
 
 >>>>>>> c64e1743fa70fd04e587175608d12b696c1a371c
