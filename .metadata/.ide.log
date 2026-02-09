@@ -920,3 +920,12 @@
 2026-02-09 14:27:37,599 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 6431mS.
 2026-02-09 14:27:37,601 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
 2026-02-09 14:27:37,604 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-09 14:51:01,792 [INFO] WebApp:194 - Connection lost
+2026-02-09 15:59:56,321 [INFO] WebApp:191 - Connection restablished
+2026-02-09 16:00:06,098 [INFO] WebApp:194 - Connection lost
+2026-02-09 16:00:06,363 [INFO] WebApp:191 - Connection restablished
+2026-02-09 16:00:09,518 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 16:00:09.514 ERROR Chromium process exit code: -1,073,741,819
+2026-02-09 16:00:09,518 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-02-09 16:00:09,520 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 16:00:09.519 ERROR Crash dump dir: C:\Users\basti\AppData\Local\JxBrowser\7.41.4\CrashReports
+2026-02-09 16:00:09,520 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2026-02-09 16:00:09,522 [ERROR] WebApp:412 - JxBrowser engine crashed! Exit code: -1073741819
