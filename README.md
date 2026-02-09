@@ -6,7 +6,7 @@ EL GAAMOUCH Aïssa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VENTURA Arthur\
 ELICE Bastien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WOELFFEL Justine\
 GERVAIS Joseph
 
-Professeur encadrant : M.Tauvel
+Professeur encadrant : M.TAUVEL
 
 ## Organisation :
 Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
@@ -28,22 +28,9 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 ## Rôles
 
-### Chef de projet : 
-* Justine
-
-### Odométrie : 
-* Athénaïs
-* Arthur
-
-### Datalogger : 
-* Aïssa
-* Joseph
-
-### Software :
-* Amélie
-* Bastien 
-
-
+| Chef de projet | Odométrie | Datalogger | Software | 
+| :---: | :---: | :---: | :---: |
+| Justine | Athénaïs \ Arthur | Aïssa \ Joseph | Amélie \ Bastien |
 
 ## Odométrie Spécifications : 
 
@@ -92,6 +79,5 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 >>>>>>> f23080328a06bf0b9811f2919c60db11811bd9d7
 
 ## Achats :
-
 
 >>>>>>> c64e1743fa70fd04e587175608d12b696c1a371c
