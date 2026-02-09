@@ -6,8 +6,7 @@ obj/
 
 # Fichiers de configuration locale de l'IDE (spécifiques à ton PC)
 .settings/
-.project
-.cproject
+
 *.launch
 
 # Fichiers temporaires CubeMX
@@ -17,3 +16,4 @@ MXTmpFiles/
 # Fichiers d'historique et logs
 *.log
 .metadata/
+
