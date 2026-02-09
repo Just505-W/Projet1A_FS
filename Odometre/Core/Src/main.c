@@ -99,8 +99,10 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
+  void setup();
   while (1)
   {
+	  void loop();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
