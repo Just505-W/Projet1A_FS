@@ -1,9 +1,9 @@
 # Projet1A_FS
 Bienvenu sur le dépot GitHub d'un des groupes de Projet de première année de l'ENSEA. \
 Participants du projet : \
-BALLARD Athénaïs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOICI Amélie\
+BALLARD Athénaïs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOICI Amélie\
 EL GAAMOUCH Aïssa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VENTURA Arthur\
-ELICE Bastien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WOELFFEL Justine\
+ELICE Bastien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WOELFFEL Justine\
 GERVAIS Joseph
 
 Professeur encadrant : M.TAUVEL
@@ -37,8 +37,6 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 ### Composants nécessaires + Datasheet : 
 
-<<<<<<< HEAD
-
 * Microcontrôleur: 
 
 * Régulateur de tension:
@@ -50,9 +48,6 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 * Un interrupteur: 
 
 * 2 LED (LED de fonctionnement et de test) : 
-
-=======
->>>>>>> 4908f458fedf534541fa10953d16ddbb23e31abd
 
 ### Ce qu'il faut faire : 
 * Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
@@ -75,10 +70,6 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 ### Ce qu'il faut faire : 
 
 
- 
-=======
->>>>>>> f23080328a06bf0b9811f2919c60db11811bd9d7
 
 ## Achats :
 
->>>>>>> c64e1743fa70fd04e587175608d12b696c1a371c
