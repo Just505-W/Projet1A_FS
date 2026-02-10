@@ -37,17 +37,17 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 ### Composants nécessaires + Datasheet : 
 
-* Microcontrôleur: 
+* Microcontrôleur: STM32C092FCP6 (code : 4676916 - Farnell)
 
-* Régulateur de tension:
+* Régulateur de tension :
 
-* Connecteur USB: 
+* Connecteur USB : 
 
-* 4 connecteurs d'entrée:sortie:
+* 4 connecteurs d'entrée/sortie :
 
 * Un interrupteur: 
 
-* 2 LED (LED de fonctionnement et de test) : 
+* 2 LED (LED de fonctionnement et de test) : Labo ?
 
 ### Ce qu'il faut faire : 
 * Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
@@ -56,7 +56,7 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 ### Composants nécessaires + Datasheet : 
 
-* Microcontrôleur: 
+* Microcontrôleur : STM32F042F6P6 (code : 2469549 - Farnell)
 
 * Régulateur de tension:
 
