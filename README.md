@@ -8,9 +8,10 @@ GERVAIS Joseph
 
 Professeur encadrant : M.TAUVEL
 
-## Organisation :
+## Dossiers utiles :
 Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+Tutoriel de conception de PCB : https://jak-services.github.io/fr/tutorial_kicad_9_build_your_first_pcb.html
 
 :warning: ***Remplir le fichier Suivi de projet.md à la fin de chaque séance !***
 
