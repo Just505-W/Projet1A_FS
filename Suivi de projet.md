@@ -27,7 +27,7 @@ Affectation des composants :
     - Bouton poussoir : ChatGPT
 
 
-!(image1)[C:\Users\justi\OneDrive\Belgeler\Dossier_GIT\Projet1A_FS\Image]
+![image1](C:\Users\justi\OneDrive\Belgeler\Dossier_GIT\Projet1A_FS\Image\image1.png)
 
 
 
