@@ -15,28 +15,29 @@ Notes de début de séance : https://docs.google.com/document/d/1G-7Qv987tz_3XtQ
 - **WOELFFEL Justine** :
 
 Affectation des composants : 
-    - Condensateur : d'après la datasheet on doit prendre les condensateur en céramique, c'est à dire non-polarisé (- ChatGPT). Ces condensateurs sont les plus classiques donc on ne prend pas trop de risque 
+- Condensateur : d'après la datasheet on doit prendre les condensateur en céramique, c'est à dire non-polarisé (- ChatGPT). Ces condensateurs sont les plus classiques donc on ne prend pas trop de risque 
 
-    ChatGPT donne une liste de composant : Capacitor_SMD:C_0603, Capacitor_SMD:C_0805 et Capacitor_SMD:C_1206
+ChatGPT donne une liste de composant : Capacitor_SMD:C_0603, Capacitor_SMD:C_0805 et Capacitor_SMD:C_1206    
+
+Le plus utile est le 0805 **de plus** d'après le TD Projet ce sont celles qu'on a utilisée
     
-    Le plus utile est le 0805 **de plus** d'après le TD Projet ce sont celles qu'on a utilisée
+On prend donc : **Capacitor_SMD:C_0603** 
     
-    On prend donc : **Capacitor_SMD:C_0603** 
+- Mountingholes : on utilise les même qu'en TD
     
-    - Mountingholes : on utilise les même qu'en TD
+- Resistences et LED : tout en 0603 HandSolder comme vu en TD
     
-    - Resistences et LED : tout en 0603 HandSolder comme vu en TD
+- STM : Originellement on avait 
     
-    - STM : Originellement on avait 
+STM32C092FCP6 : SOP65P640X120-20N
     
-    STM32C092FCP6 : SOP65P640X120-20N
-    
-    Pour trouver l'affectation on a va p.120 (Ordering information) de la DataSheet pour regarder : STM32C092**FCP**6
+Pour trouver l'affectation on a va p.120 (Ordering information) de la DataSheet pour regarder : STM32C092**FCP**6
 
 ![image1](https://github.com/Just505-W/Projet1A_FS/blob/main/Image/image1.png)
 
-    On peut donc mettre comme affectation : Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm
-    - Bouton poussoir : ChatGPT
+On peut donc mettre comme affectation : Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm
+
+- Bouton poussoir : ChatGPT
 
 
 
