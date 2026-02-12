@@ -19,13 +19,13 @@ Affectation des composants :
 
 ChatGPT donne une liste de composant : Capacitor_SMD:C_0603, Capacitor_SMD:C_0805 et Capacitor_SMD:C_1206    
 
-Le plus utile est le 0805 **de plus** d'après le TD Projet ce sont celles qu'on a utilisée
+Le plus utilisé est le 0805 **de plus** d'après le TD Projet ce sont celles qu'on a utilisée
     
 On prend donc : **Capacitor_SMD:C_0603** 
     
 - Mountingholes : on utilise les même qu'en TD
     
-- Resistences et LED : tout en 0603 HandSolder comme vu en TD
+- Resistances et LED : tout en 0603 HandSolder comme vu en TD
     
 - STM : Originellement on avait 
     
