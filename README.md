@@ -1,67 +1,75 @@
 # Projet1A_FS
 Bienvenu sur le dépot GitHub d'un des groupes de Projet de première année de l'ENSEA. \
-Participants du projet : 
-BALLARD Athénaïs        NOICI Amélie
-EL GAAMOUCH Aïssa       VENTURA Arthur 
-ELICE Bastien           WOELFFEL Justine
+Participants du projet : \
+BALLARD Athénaïs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOICI Amélie\
+EL GAAMOUCH Aïssa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VENTURA Arthur\
+ELICE Bastien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WOELFFEL Justine\
 GERVAIS Joseph
 
+Professeur encadrant : M.TAUVEL
 
-
-
-
-
-
-
-
-## Organisation :
+## Dossiers utiles :
 Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-### Plan : 
-* Jeudi 05/02 : GitHub en place, Datasheets, Spec et achats si il reste du temps.
-* Jeudi 12/02 : Schémas KiKad finis.
-* Jeudi 19/02 : PCB finis .
+Tutoriel de conception de PCB : https://jak-services.github.io/fr/tutorial_kicad_9_build_your_first_pcb.html
 
-### Chef de projet : 
-* Justine
-
-### Odométrie : 
-* Athénaïs
-* Arthur
-
-### Datalogger : 
-* Aïssa
-* Joseph
-
-### Software :
-* Amélie
-* Bastien 
+:warning: ***Remplir le fichier Suivi de projet.md à la fin de chaque séance !***
 
 ## Description du projet: 
 
-Ce projet a pour but de réaliser des composants utiles au bon fonctionnement d'un monoplace dans le cadre du concours **FORMULA STUDENT**. Un de ces composants est lui tiré du concours **PERSEUS**. 
+Ce projet a pour objectif de réaliser des composants utiles au bon fonctionnement d'une monoplace dans le cadre du concours **FORMULA STUDENT**. Un de ces composants est lui tiré du concours **PERSEUS**. 
  
-Le projet se concentre sur la conception et fabrication de 3 PCB:
+Le projet se concentre sur la conception et la fabrication de 3 PCB:
  
-- Un capteur d'**Odométire** : il calcule la vitesse de rotation des roues de la voitures et la transmet au bus CAN. 
+- Un capteur d'**Odométrie** : il calcule la vitesse de rotation des roues de la voitures et la transmet au bus CAN. 
 
 - Un capteur **ToF** (Time of flight) : il calcule les distances par rapport aux objets environnants et doit pouvoir assurer un arrêt de sécurité. 
 
 - Un **Datalogger**:  il récupère les données du bus CAN en temps réel et les stock dans un carte SD, qui servira de "boîte noire" en cas de destruction de l'appareil. Il sera également doté d'une application codée en Java (référence à notre super cours de **programmation orientée objet**) afin d'avoir une interface graphique utile à la conduite.
 
+## Rôles
 
+| Chef de projet | Odométrie | Datalogger | Software | 
+| :---: | :---: | :---: | :---: |
+| Justine | Athénaïs \ Arthur | Aïssa \ Joseph | Amélie \ Bastien |
 
 ## Odométrie Spécifications : 
-* Mesurer vitesse de rotations allant de 0 à 5200 tr/min avec une précision de 10 tr/min
 
 ### Composants nécessaires + Datasheet : 
+
+* Microcontrôleur: STM32C092FCP6 (code : 4676916 - Farnell)
+
+* Régulateur de tension :
+
+* Connecteur USB : 
+
+* 4 connecteurs d'entrée/sortie :
+
+* Un interrupteur: 
+
+* 2 LED (LED de fonctionnement et de test) : Labo ?
+
 ### Ce qu'il faut faire : 
+* Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
 
 ## Datalogger Spécifications : 
-### Ce qu'il faut faire + Datasheet : 
+
+### Composants nécessaires + Datasheet : 
+
+* Microcontrôleur : STM32F042F6P6 (code : 2469549 - Farnell)
+
+* Régulateur de tension:
+
+* 4 connecteurs d'entrée:sortie:
+
+* Un interrupteur: 
+
+* 2 LED (LED de fonctionnement et de test) : 
+
+
+### Ce qu'il faut faire : 
+
 
 
 ## Achats :
 
-
->>>>>>> c64e1743fa70fd04e587175608d12b696c1a371c

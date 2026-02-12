@@ -1,0 +1,19 @@
+# Dossiers de compilation (les plus lourds et bruyants)
+Debug/
+Release/
+bin/
+obj/
+
+# Fichiers de configuration locale de l'IDE (spécifiques à ton PC)
+.settings/
+
+*.launch
+
+# Fichiers temporaires CubeMX
+MXTmpFiles/
+*.bak
+
+# Fichiers d'historique et logs
+*.log
+.metadata/
+
