@@ -9,6 +9,8 @@ GERVAIS Joseph
 Professeur encadrant : M.TAUVEL
 
 ## Dossiers utiles :
+Regulatuer de tension datasheet : https://www.alldatasheet.com/datasheet-pdf/view/807123/TI1/LM1117DT-3.3.html
+
 Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 Tutoriel de conception de PCB : https://jak-services.github.io/fr/tutorial_kicad_9_build_your_first_pcb.html
