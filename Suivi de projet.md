@@ -49,7 +49,8 @@ Finalisation du schéma kikad, rajout d'un deuxième régulateur de tension car 
 ## 19 Février
 - **Avancement global**
 
-<ins> Datalogger</ins> : Le PCB est agencé, on doit encore vérifier certaines empreintes, on a trouvé les boutons au labo (on les a réservés), le routage est en cours. Les empreintes en commun avec le groupes d'Alain on été choisies (Le groupe d'Alain s'adaptera au notre) \\ Seule note d'Alain : choisir JST qui empêchent la deconnexion (JST AM - il me semble)
+<ins> Datalogger</ins> : Le PCB est agencé, on doit encore vérifier certaines empreintes, on a trouvé les boutons au labo (on les a réservés), le routage est en cours. Les empreintes en commun avec le groupes d'Alain on été choisies (Le groupe d'Alain s'adaptera au notre)  
+Seule note d'Alain : choisir JST qui empêchent la deconnexion (JST AM - il me semble)
 
 
 
