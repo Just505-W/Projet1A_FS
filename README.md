@@ -41,7 +41,7 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 * Microcontrôleur: STM32C092FCP6 (code : 4676916 - Farnell)
 
-* Régulateur de tension :
+* Régulateur de tension : (code : 197-7195P - RS)
 
 * Connecteur USB : 
 
@@ -49,7 +49,7 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 * Un interrupteur: 
 
-* 2 LED (LED de fonctionnement et de test) : Labo ?
+* 2 LED (LED de fonctionnement et de test) : (code : 466-3863 - RS)
 
 ## Datalogger Spécifications : 
 
@@ -57,15 +57,15 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 * Microcontrôleur : STM32F042F6P6 (code : 2469549 - Farnell)
 
-* Régulateur de tension:
+* 2 Régulateur de tension : Regulateur 3.3V (code : 197-7195P - RS) Régulateur 5.0V (code : 2534281 - Farnell)
 
-* 4 connecteurs d'entrée:sortie:
+* 4 connecteurs d'entrée/sortie : 
 
-* Un interrupteur: 
+* Un interrupteur
 
-* 2 boutons poussoirs : 
+* 2 boutons poussoirs
 
-* 2 LED (LED de fonctionnement et de test) : 
+* 2 LED (LED de fonctionnement et de test) : LED CMS  (code : 466-3863 - RS)
 
 
 
