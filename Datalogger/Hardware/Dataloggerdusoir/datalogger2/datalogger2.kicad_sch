@@ -6918,7 +6918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQPE1"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 124.46 55.88 0)
 			(effects
 				(font
@@ -7655,7 +7655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQPE1"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 201.93 74.93 0)
 			(effects
 				(font
@@ -8921,7 +8921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQPE1"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 27.94 73.66 0)
 			(effects
 				(font
