@@ -47,7 +47,7 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 * 4 connecteurs d'entrée/sortie :
 
-* 2 boutons poussoir : Interrupteur tactile traversant (code : 682-1254 - RS)
+* 2 boutons poussoir : ~Interrupteur tactile traversant (code : 682-1254 - RS)~
 
 * 2 LED (LED de fonctionnement et de test) : (code : 466-3863 - RS)
 
@@ -61,6 +61,8 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 * 4 connecteurs d'entrée/sortie : 
 
-* 3 boutons poussoir : Interrupteur tactile traversant (code : 682-1254 - RS)
+* 1 Interrupteur : Interrupteur tactile traversant (code : 682-1254 - RS)
+
+* 2 boutons poussoir : 
 
 * 2 LED (LED de fonctionnement et de test) : LED CMS  (code : 466-3863 - RS)
