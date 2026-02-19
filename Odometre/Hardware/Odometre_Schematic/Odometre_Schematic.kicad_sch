@@ -5475,7 +5475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "430182043816:430182043816"
+		(property "Footprint" "projo:430182043816"
 			(at 259.08 87.63 0)
 			(effects
 				(font
@@ -5695,7 +5695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "430182043816:430182043816"
+		(property "Footprint" "projo:430182043816"
 			(at 259.08 109.22 0)
 			(effects
 				(font
