@@ -9,7 +9,7 @@ GERVAIS Joseph
 Professeur encadrant : M.TAUVEL
 
 ## Dossiers utiles :
-Regulatuer de tension datasheet : https://www.alldatasheet.com/datasheet-pdf/view/807123/TI1/LM1117DT-3.3.html
+Régulateur de tension datasheet : https://www.alldatasheet.com/datasheet-pdf/view/807123/TI1/LM1117DT-3.3.html
 
 Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
@@ -41,16 +41,15 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 * Microcontrôleur: STM32C092FCP6 (code : 4676916 - Farnell)
 
-* 2 Régulateurs de tension : 5V, 3.3
+* Régulateur de tension :
 
-* 4 connecteurs d'entrée/sortie : JST, 
+* Connecteur USB : 
 
-* 2 boutons poussoirs : 
+* 4 connecteurs d'entrée/sortie :
 
-* 2 LED (LED de fonctionnement et de test) : 
+* Un interrupteur: 
 
-### Ce qu'il faut faire : 
-* Mesurer vitesse de rotations allant de 0 à 150 km/h avec précision au km/h près.
+* 2 LED (LED de fonctionnement et de test) : Labo ?
 
 ## Datalogger Spécifications : 
 
@@ -58,13 +57,18 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 * Microcontrôleur : STM32F042F6P6 (code : 2469549 - Farnell)
 
-* Régulateur de tension :
+* Régulateur de tension:
 
 * 4 connecteurs d'entrée:sortie:
 
 * Un interrupteur: 
 
+* 2 boutons poussoirs : 
+
 * 2 LED (LED de fonctionnement et de test) : 
 
-* Bus CAN : MCP2562-E/SN (code 2362839 - Farnell )
+
+
+
+## Achats :
 
