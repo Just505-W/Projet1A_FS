@@ -46,7 +46,9 @@ On peut donc mettre comme affectation : Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm
 Finalisation du schéma kikad, rajout d'un deuxième régulateur de tension car problème de tension d'entrée:
 ![image1](https://github.com/Just505-W/Projet1A_FS/blob/main/Image/Datalogger_kikad_sch.png)
 
-
+## 19 Février
+- **Avancement global**
+<ins> Datalogger</ins> : Le PCB est agencé, on doit encore vérifier certaines empreintes, on a trouvé les boutons au labo (on les a réservés), le routage est en cours. Les empreintes en commun avec le groupes d'Alain on été choisies (Le groupe d'Alain s'adaptera au notre)\\ Seule note d'Alain : choisir JST qui empêchent la deconnexion (JST AM - il me semble)
 
 
 
