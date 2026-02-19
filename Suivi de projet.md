@@ -46,6 +46,19 @@ On peut donc mettre comme affectation : Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm
 Finalisation du schéma kikad, rajout d'un deuxième régulateur de tension car problème de tension d'entrée:
 ![image1](https://github.com/Just505-W/Projet1A_FS/blob/main/Image/Datalogger_kikad_sch.png)
 
+## 19 Février
+- **Avancement global**
+
+<ins> Datalogger</ins> (Amélie, Joseph, Aïssa): Le PCB est agencé, on doit encore vérifier certaines empreintes, on a trouvé les boutons au labo (on les a réservés), le routage est en cours. Les empreintes en commun avec le groupes d'Alain on été choisies (Le groupe d'Alain s'adaptera au notre)  
+Seule note d'Alain : choisir JST qui empêchent la deconnexion (JST AM - il me semble)  
+On va surement réussir à commander avant les vancances
+
+<ins> Odomètre</ins> (Bastien, Athénaïs): problème avec le routage et les empreintes, d'après Patricia il faut un bouton auquel on a du importé l'empreinte mais il y a des problèmes d'importations. Le routage n'est pas commencé.  
+Peu probable de la commander avant vacances 
+
+<ins> Achat</ins> (Arthur): fichier excels terminé, ils osnt sur GitHub, prêt à être envoyés 
+
+<ins> Autre</ins> : Début de projet pour le gestionnaire de batterie 
 
 
 

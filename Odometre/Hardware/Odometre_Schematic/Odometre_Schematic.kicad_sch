@@ -11,6 +11,321 @@
 		(company "ENSEA")
 	)
 	(lib_symbols
+		(symbol "430182043816:430182043816"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at 0 5.842 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Value" "430182043816"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Footprint" "430182043816:430182043816"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Wurth Electronics"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "6*6mm vertical type, SMT, height 4.3mm, black actuator, 160gf, T&R"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/430182043816/Wurth+Electronics/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "430182043816"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/430182043816/Wurth+Electronics/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "430182043816_0_0"
+				(polyline
+					(pts
+						(xy 0 5.08) (xy -2.54 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.175) (xy 0 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.508)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy -2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.47 2.74) (xy 1.04 -0.07)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 5.08) (xy 0 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 5.08 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names
 				(offset 1.016)
@@ -2232,156 +2547,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Switch:SW_Push"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at 1.27 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "SW_Push"
-				(at 0 -1.524 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Push button switch, generic, two pins"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "switch normally-open pushbutton push-button"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SW_Push_0_1"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy -2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:+12V"
 			(power)
 			(pin_names
@@ -2609,6 +2774,131 @@
 					(length 0)
 					(hide yes)
 					(name "+3.3V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:+5V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+5V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3145,6 +3435,12 @@
 		(uuid "04076c33-7171-480a-9fa7-4c553ee9319c")
 	)
 	(junction
+		(at 120.65 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09efa6d7-2d63-4134-99ad-20e499531762")
+	)
+	(junction
 		(at 120.65 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3211,14 +3507,18 @@
 		(uuid "df3d26d3-b54f-459c-984c-41d02155c9f2")
 	)
 	(junction
-		(at 120.65 31.75)
+		(at 128.27 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e30f5dfe-4a32-4e91-9d2e-1ee4e2631fb2")
+		(uuid "efa7cb8f-8b5d-4e50-81b4-931dcc0b0041")
 	)
 	(no_connect
 		(at 88.9 175.26)
 		(uuid "070c366f-7419-45c8-88b5-da6abd8cc145")
+	)
+	(no_connect
+		(at 254 111.76)
+		(uuid "14e5839e-e6df-4938-9656-4a9c0aa8cd26")
 	)
 	(no_connect
 		(at 35.56 35.56)
@@ -3227,6 +3527,14 @@
 	(no_connect
 		(at 88.9 50.8)
 		(uuid "1a09202b-e37b-49d1-8c31-be7b68543ba2")
+	)
+	(no_connect
+		(at 264.16 82.55)
+		(uuid "28b010f4-401c-45ef-89ca-88d1b432ba64")
+	)
+	(no_connect
+		(at 264.16 104.14)
+		(uuid "3b14a82e-2d0f-49ef-bcb5-f2901a97ec36")
 	)
 	(no_connect
 		(at 88.9 53.34)
@@ -3239,6 +3547,10 @@
 	(no_connect
 		(at 35.56 55.88)
 		(uuid "c9a73684-23c5-4754-adfc-24629dd59870")
+	)
+	(no_connect
+		(at 254 90.17)
+		(uuid "ce2bb2b7-4041-4e03-87f4-c7a19f077cf7")
 	)
 	(no_connect
 		(at 88.9 43.18)
@@ -3342,6 +3654,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 107.95) (xy 264.16 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d007647-c359-4243-b53c-93443f72eb32")
+	)
+	(wire
+		(pts
 			(xy 224.79 45.72) (xy 224.79 46.99)
 		)
 		(stroke
@@ -3389,6 +3711,16 @@
 			(type default)
 		)
 		(uuid "4040f0ca-ee91-4b77-86ea-95b3f92ec69e")
+	)
+	(wire
+		(pts
+			(xy 128.27 31.75) (xy 133.35 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "426dd527-242d-406e-85bf-7c19a0ba8456")
 	)
 	(wire
 		(pts
@@ -3459,6 +3791,16 @@
 			(type default)
 		)
 		(uuid "4dc60588-8c46-4838-8fb0-2fa9e49558a0")
+	)
+	(wire
+		(pts
+			(xy 254 82.55) (xy 254 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5066893f-3e41-4391-a3d8-c7e53bd3f2d3")
 	)
 	(wire
 		(pts
@@ -3562,16 +3904,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 31.75) (xy 133.35 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9036fcc2-8aa7-4604-9531-dc863c8b1d5a")
-	)
-	(wire
-		(pts
 			(xy 261.62 93.98) (xy 270.51 93.98)
 		)
 		(stroke
@@ -3652,6 +3984,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 104.14) (xy 254 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b02395fc-8c40-4622-bc9e-6a85ff60e4d0")
+	)
+	(wire
+		(pts
 			(xy 48.26 81.28) (xy 62.23 81.28)
 		)
 		(stroke
@@ -3659,6 +4001,16 @@
 			(type default)
 		)
 		(uuid "b118d2d0-b08e-4fec-9352-04473eaac2ef")
+	)
+	(wire
+		(pts
+			(xy 264.16 86.36) (xy 264.16 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b41e4c77-b599-44eb-b1fd-6df5851520c0")
 	)
 	(wire
 		(pts
@@ -3729,6 +4081,16 @@
 			(type default)
 		)
 		(uuid "dc14fc24-4012-4971-a66d-ea725d4955c7")
+	)
+	(wire
+		(pts
+			(xy 120.65 31.75) (xy 128.27 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd913040-80f9-4900-a84e-c98443362ac2")
 	)
 	(wire
 		(pts
@@ -4550,7 +4912,7 @@
 	)
 	(global_label "D_Botton"
 		(shape input)
-		(at 255.27 105.41 180)
+		(at 254 107.95 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4560,7 +4922,7 @@
 		)
 		(uuid "d1afb180-102d-4cc1-bf7a-82df9244c6a8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 243.9582 105.41 0)
+			(at 242.6882 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4704,7 +5066,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 265.43 105.41 90)
+		(at 264.16 107.95 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4713,7 +5075,7 @@
 		(fields_autoplaced yes)
 		(uuid "0107fa9c-b4d8-431e-807e-094f5c3e3ef9")
 		(property "Reference" "#PWR026"
-			(at 271.78 105.41 0)
+			(at 270.51 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4722,7 +5084,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 269.24 106.045 90)
+			(at 267.97 108.585 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4731,7 +5093,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 265.43 105.41 0)
+			(at 264.16 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4740,7 +5102,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 265.43 105.41 0)
+			(at 264.16 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4749,7 +5111,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 265.43 105.41 0)
+			(at 264.16 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4899,73 +5261,6 @@
 			(project "Odometre_Schematic"
 				(path "/3741a7b9-879e-49a1-88bd-82d63456a983"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 260.35 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "066b00ed-422f-44d4-aaf5-b0476d99ade8")
-		(property "Reference" "SW2"
-			(at 260.35 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Debug_Botton"
-			(at 260.35 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
-			(at 260.35 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 260.35 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 260.35 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c0fdbbe6-8941-48aa-af89-bb32ea0b0115")
-		)
-		(pin "2"
-			(uuid "356b0b6c-cf9e-48b4-ae74-ba7d32585257")
-		)
-		(instances
-			(project "Odometre_Schematic"
-				(path "/3741a7b9-879e-49a1-88bd-82d63456a983"
-					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -5171,6 +5466,161 @@
 		)
 	)
 	(symbol
+		(lib_id "430182043816:430182043816")
+		(at 259.08 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b2a7473-f93e-4a4b-a4cb-6c03c495f99f")
+		(property "Reference" "S1"
+			(at 259.08 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "430182043816"
+			(at 259.08 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "projo:430182043816"
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Wurth Electronics"
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "6*6mm vertical type, SMT, height 4.3mm, black actuator, 160gf, T&R"
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/430182043816/Wurth+Electronics/view-part/?ref=snap"
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "430182043816"
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/430182043816/Wurth+Electronics/view-part/?ref=eda"
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "82283652-7552-4f2d-8b9a-94e31101f3ff")
+		)
+		(pin "3"
+			(uuid "5d173ec0-74b3-4bc0-94c5-6782ef40aac7")
+		)
+		(pin "4"
+			(uuid "78cec676-5223-4056-8c9c-cfadc2e80af7")
+		)
+		(pin "1"
+			(uuid "575afad7-26d2-4d93-a1f9-b86fd89c7950")
+		)
+		(instances
+			(project ""
+				(path "/3741a7b9-879e-49a1-88bd-82d63456a983"
+					(reference "S1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 160.02 39.37 0)
 		(unit 1)
@@ -5230,6 +5680,161 @@
 			(project "Odometre_Schematic"
 				(path "/3741a7b9-879e-49a1-88bd-82d63456a983"
 					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "430182043816:430182043816")
+		(at 259.08 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "164e09dc-95f2-4e5d-92bc-1827b4b6844c")
+		(property "Reference" "S2"
+			(at 259.08 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "430182043816"
+			(at 259.08 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "projo:430182043816"
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Wurth Electronics"
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "6*6mm vertical type, SMT, height 4.3mm, black actuator, 160gf, T&R"
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/430182043816/Wurth+Electronics/view-part/?ref=snap"
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "430182043816"
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/430182043816/Wurth+Electronics/view-part/?ref=eda"
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1f554fdc-a3c8-4a95-83c0-46af00492627")
+		)
+		(pin "3"
+			(uuid "e40fc284-4120-41be-a8b2-24316e6a9191")
+		)
+		(pin "4"
+			(uuid "1aa276e7-ff91-4fc8-88bf-74a96877ae38")
+		)
+		(pin "1"
+			(uuid "b9e33bc8-60b6-461d-949c-2cac8a639f2f")
+		)
+		(instances
+			(project "Odometre_Schematic"
+				(path "/3741a7b9-879e-49a1-88bd-82d63456a983"
+					(reference "S2")
 					(unit 1)
 				)
 			)
@@ -5399,7 +6004,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 36.83 172.72 0)
 			(effects
 				(font
@@ -5438,71 +6043,6 @@
 			(project "Odometre_Schematic"
 				(path "/3741a7b9-879e-49a1-88bd-82d63456a983"
 					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 160.02 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "206b4a98-97a1-4209-8ba6-f9b4da9e4aae")
-		(property "Reference" "#PWR030"
-			(at 160.02 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 160.02 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 160.02 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.02 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 160.02 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8ea6cb87-3057-412f-a685-29f12df784f3")
-		)
-		(instances
-			(project "Odometre_Schematic"
-				(path "/3741a7b9-879e-49a1-88bd-82d63456a983"
-					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -6942,7 +7482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 36.83 185.42 0)
 			(effects
 				(font
@@ -7050,6 +7590,72 @@
 			(project "Odometre_Schematic"
 				(path "/3741a7b9-879e-49a1-88bd-82d63456a983"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 128.27 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8e72a3fb-df56-40b0-8fa0-2afeed6bc658")
+		(property "Reference" "#FLG01"
+			(at 128.27 29.845 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 128.27 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 128.27 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "11d4d6e3-122d-4a29-968d-25fb4d2ac1a6")
+		)
+		(instances
+			(project ""
+				(path "/3741a7b9-879e-49a1-88bd-82d63456a983"
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -7412,7 +8018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical"
 			(at 99.06 149.86 0)
 			(effects
 				(font
@@ -8457,7 +9063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical"
 			(at 99.06 133.35 0)
 			(effects
 				(font
@@ -8567,33 +9173,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 259.08 86.36 0)
+		(lib_id "power:+5V")
+		(at 160.02 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "defe5419-b7a9-414d-b2f4-1f4f61ded9f2")
-		(property "Reference" "SW1"
-			(at 259.08 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Reset_Botton"
-			(at 259.08 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
-			(at 259.08 81.28 0)
+		(uuid "e10e4e4d-bde5-40c1-a89d-9784eeee454e")
+		(property "Reference" "#PWR09"
+			(at 160.02 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8601,8 +9191,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 259.08 81.28 0)
+		(property "Value" "+5V"
+			(at 160.02 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 160.02 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8610,24 +9208,31 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 259.08 86.36 0)
+		(property "Datasheet" ""
+			(at 160.02 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 160.02 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "4fabf5f2-4086-4176-8900-e23062746543")
-		)
-		(pin "2"
-			(uuid "23967112-6b96-442d-a162-ea08607ceb1e")
+			(uuid "d04cc878-aa3b-44c7-aa02-960e98e5d48e")
 		)
 		(instances
-			(project "Odometre_Schematic"
+			(project ""
 				(path "/3741a7b9-879e-49a1-88bd-82d63456a983"
-					(reference "SW1")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -8927,7 +9532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 39.37 137.16 0)
 			(effects
 				(font
@@ -9071,7 +9676,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical"
 			(at 83.82 180.34 0)
 			(effects
 				(font
