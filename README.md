@@ -41,13 +41,11 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 * Microcontrôleur: STM32C092FCP6 (code : 4676916 - Farnell)
 
-* Régulateur de tension :
+* 2 Régulateurs de tension : 5V, 3.3
 
-* Connecteur USB : 
+* 4 connecteurs d'entrée/sortie : JST, 
 
-* 4 connecteurs d'entrée/sortie :
-
-* Un interrupteur: 
+* 2 boutons poussoirs : 
 
 * 2 LED (LED de fonctionnement et de test) : 
 
@@ -69,11 +67,4 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 * 2 LED (LED de fonctionnement et de test) : 
 
 * Bus CAN : MCP2562-E/SN (code 2362839 - Farnell )
-
-
-### Ce qu'il faut faire : 
-
-
-
-## Achats :
 

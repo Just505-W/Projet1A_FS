@@ -29,10 +29,28 @@
       "zones": true
     },
     "visible_items": [
-      12
+      "vias",
+      "footprint_text",
+      "footprint_anchors",
+      "ratsnest",
+      "grid",
+      "footprints_front",
+      "footprints_back",
+      "footprint_values",
+      "footprint_references",
+      "tracks",
+      "drc_errors",
+      "drawing_sheet",
+      "bitmaps",
+      "pads",
+      "zones",
+      "drc_warnings",
+      "locked_item_shadows",
+      "conflict_shadows",
+      "shapes"
     ],
-    "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+    "zone_display_mode": 1
   },
   "git": {
     "repo_type": "",
@@ -40,8 +58,8 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Datalogger.kicad_prl",
-    "version": 3
+    "filename": "Odometre_Schematic.kicad_prl",
+    "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
@@ -69,16 +87,16 @@
       9
     ],
     "col_widths": [
-      186,
-      171,
-      123,
-      122,
-      123,
-      161,
-      119,
-      126,
-      112,
-      112
+      156,
+      141,
+      103,
+      71,
+      103,
+      103,
+      103,
+      74,
+      103,
+      103
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
