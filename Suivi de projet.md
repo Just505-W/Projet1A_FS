@@ -44,7 +44,7 @@ On peut donc mettre comme affectation : Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm
 - **NOICI Amélie** :
 
 Finalisation du schéma kikad, rajout d'un deuxième régulateur de tension car problème de tension d'entrée:
-![image1](https://github.com/Just505-W/Projet1A_FS/blob/main/Image/Datalogger_kikad_final_sch.png)
+![image1](https://github.com/Just505-W/Projet1A_FS/blob/main/Image/Datalogger _kikad_final_sch.png)
 
 ## 19 Février
 - **Avancement global**
