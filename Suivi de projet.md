@@ -62,5 +62,15 @@ Peu probable de la commander avant vacances
 
 
 
+## 12 Mars 2026
+- **Avancement global**
+On a reçu les PCB
+L'entièreté de la séance à servi à rechercher les composants necessaires pour les PCB
+On a commandé de nouveaux composants via le fichier excel
+Pas de productivité optimale.
+
+
+
+
 
 
