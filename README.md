@@ -10,7 +10,7 @@ Professeur encadrant : M.TAUVEL
 
 ## Dossiers utiles :
 
-Projet similaire d'un etudiant sur Git : https://github.com/crsz20/SDCard-Interface-STM32/tree/master
+Projet Datalogger/SD d'un etudiant sur Git : https://github.com/crsz20/SDCard-Interface-STM32/tree/master
 
 Régulateur de tension datasheet : https://www.alldatasheet.com/datasheet-pdf/view/807123/TI1/LM1117DT-3.3.html
 
