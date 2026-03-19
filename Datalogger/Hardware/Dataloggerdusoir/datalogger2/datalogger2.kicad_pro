@@ -52,7 +52,16 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|156550000|57675000|9a2b3d80-f7cc-44e2-87b4-94dee519b718|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|172125000|64667500|b6614e58-fa3f-4b8c-ad1e-db795ae915d3|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -490,7 +499,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "fichier_gerber_fabrication/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

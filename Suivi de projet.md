@@ -62,5 +62,43 @@ Peu probable de la commander avant vacances
 
 
 
+## 12 Mars 2026
+- **Avancement global**
+
+On a reçu les PCB
+
+L'entièreté de la séance à servi à rechercher les composants necessaires pour les PCB
+
+On a commandé de nouveaux composants via le fichier excel
+
+Pas de productivité optimale.
+
+
+
+## 19 Mars 2026
+
+Certains composants reçu ?
+
+Farnell\
+Processeur STM Odometre et GB : 4676916\
+Régulateur 5.0V : 2534281\
+Connecteur carte SD : 1764374\
+Processeur STM Datalogger : 2469549 \
+Capteur à effet Hall : 1617405\
+SD - DM3AT-SF-PEJM5 : 2427719\
+
+
+RS\
+LED CMS : 466-3863\
+Tranceiver CAN : 799-0228 \
+Regulateur 3.3V : 197-7195P\
+Bargraph LED : 588-235\
+
+
+
+
+
+
+
 
 
