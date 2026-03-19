@@ -9,6 +9,9 @@ GERVAIS Joseph
 Professeur encadrant : M.TAUVEL
 
 ## Dossiers utiles :
+
+Projet similaire d'un etudiant sur Git : https://github.com/crsz20/SDCard-Interface-STM32/tree/master
+
 Régulateur de tension datasheet : https://www.alldatasheet.com/datasheet-pdf/view/807123/TI1/LM1117DT-3.3.html
 
 Comment éditer un fichier GitHub : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
