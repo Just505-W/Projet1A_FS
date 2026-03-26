@@ -1,6 +1,6 @@
 #include "bouton.h"
 #include <stm32c0xx_hal.h>
-#include <stdint.h>
+
 
 
 uint8_t autoriser_clignotement = 1;
