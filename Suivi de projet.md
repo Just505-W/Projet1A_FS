@@ -96,8 +96,8 @@ MicroSD 8Go : 759-925
 
 
 RS\
-LED CMS : 466-3863 \ 
-Tranceiver CAN : 799-0228 \ 
+LED CMS : 466-3863 \
+Tranceiver CAN : 799-0228 \
 ~Regulateur 3.3V : 197-7195P~ \
 ~Bargraph LED : 588-235~ \
 
