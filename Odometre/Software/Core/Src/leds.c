@@ -16,12 +16,20 @@ void set_leds(){
 	HAL_Delay(250);
 }
 
-void clignoter_leds(){
+void clignoter_led_bleue(){
 
 	if (HAL_GetTick() - last_led_tick > 250) {
 		led_state = !led_state;
 		HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, led_state);
-		HAL_GPIO_WritePin(GPIOA, GPIO_PIN_11, !led_state);
+
+		last_led_tick = HAL_GetTick();
+	}
+}
+void clignoter_led_verte(){
+
+	if (HAL_GetTick() - last_led_tick > 250) {
+		led_state = !led_state;
+		HAL_GPIO_WritePin(GPIOA, GPIO_PIN_11, led_state);
 
 		last_led_tick = HAL_GetTick();
 	}
