@@ -77,22 +77,36 @@ Pas de productivité optimale.
 
 ## 19 Mars 2026
 
-Certains composants reçu ?
+On a reçu des composant mais aucun ne nous appartenaient.\
+On a vaguement commencé le code.\
+On doit également associer nos actions aux adresses CAN
+
+
+## 26 Mars 2026
+
+Certains composants reçus
 
 Farnell\
-Processeur STM Odometre et GB : 4676916\
-Régulateur 5.0V : 2534281\
-Connecteur carte SD : 1764374\
-Processeur STM Datalogger : 2469549 \
-Capteur à effet Hall : 1617405\
-SD - DM3AT-SF-PEJM5 : 2427719\
-
+~Processeur STM Odometre et GB : 4676916~ \
+~Régulateur 5.0V : 2534281~\
+~Connecteur carte SD : 1764374~\
+~Processeur STM Datalogger : 2469549~ \
+~Capteur à effet Hall : 1617405~\
+~SD - DM3AT-SF-PEJM5 : 2427719~\
+MicroSD 8Go : 759-925 
 
 RS\
-LED CMS : 466-3863\
+LED CMS : 466-3863 \
 Tranceiver CAN : 799-0228 \
-Regulateur 3.3V : 197-7195P\
-Bargraph LED : 588-235\
+~Regulateur 3.3V : 197-7195P~ \
+~Bargraph LED : 588-235~ 
+
+
+
+
+
+
+
 
 
 
