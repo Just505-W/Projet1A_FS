@@ -1,4 +1,5 @@
 #include "utils.h"
+#include "main.h"
 #include <stm32c0xx_hal.h>
 
 uint32_t last_led_tick = 0;
@@ -13,7 +14,7 @@ void setup(){
 void loop(){
 	clignoter_led_bleue();
 	action_bouton();
-	if (autoriser_clignotement) {
+	if (autoriser_clignotement==1) {
 		clignoter_led_verte();
 		HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_11);
 		HAL_Delay(250);
@@ -66,6 +67,6 @@ void set_bouton(){
 void action_bouton(){
 	if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_4) == GPIO_PIN_RESET) {
 		autoriser_clignotement = !autoriser_clignotement; // On inverse l'autorisation
-		HAL_Delay(200); // Anti-rebond (Debounce) rapide pour éviter les faux clics
+		HAL_Delay(200);
 	}
 }
