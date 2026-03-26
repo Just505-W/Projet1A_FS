@@ -78,7 +78,9 @@ Pas de productivité optimale.
 ## 19 Mars 2026
 
 On a reçu des composant mais aucun ne nous appartenaient.\
-On a vaguement commencé le code 
+On a vaguement commencé le code.\
+On doit également associer nos action aux adresses CAN
+
 
 ## 26 Mars 2026
 
