@@ -77,12 +77,12 @@ Pas de productivité optimale.
 
 ## 19 Mars 2026
 
-On a reçu des composant mais aucun ne nous appartenaient
+On a reçu des composant mais aucun ne nous appartenaient.\
 On a vaguement commencé le code 
 
 ## 26 Mars 2026
 
-Certains composants reçu 
+Certains composants reçus
 
 Farnell\
 ~Processeur STM Odometre et GB : 4676916~ \
@@ -93,13 +93,18 @@ Farnell\
 ~SD - DM3AT-SF-PEJM5 : 2427719~\
 MicroSD 8Go : 759-925 
 
-
-
 RS\
 LED CMS : 466-3863 \
 Tranceiver CAN : 799-0228 \
 ~Regulateur 3.3V : 197-7195P~ \
-~Bargraph LED : 588-235~ \
+~Bargraph LED : 588-235~ 
+
+
+
+
+
+
+
 
 
 
