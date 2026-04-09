@@ -79,7 +79,7 @@ Pas de productivité optimale.
 
 On a reçu des composant mais aucun ne nous appartenaient.\
 On a vaguement commencé le code.\
-On doit également associer nos action aux adresses CAN
+On doit également associer nos actions aux adresses CAN
 
 
 ## 26 Mars 2026
