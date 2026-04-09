@@ -19,6 +19,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "can.h"
+#include "fatfs.h"
 #include "spi.h"
 #include "usart.h"
 #include "gpio.h"
@@ -57,7 +58,15 @@ void SystemClock_Config(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
+int __io_putchar(int ch)
 
+{
+
+	HAL_UART_Transmit(&huart2, (uint8_t *)&ch, 1, HAL_MAX_DELAY);
+
+	return ch;
+
+}
 /* USER CODE END 0 */
 
 /**
@@ -92,6 +101,7 @@ int main(void)
   MX_CAN_Init();
   MX_SPI1_Init();
   MX_USART2_UART_Init();
+  MX_FATFS_Init();
   /* USER CODE BEGIN 2 */
 
   /* USER CODE END 2 */
