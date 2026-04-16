@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Fabrication/")
 		)
 	)
 	(net 0 "")
@@ -8110,6 +8110,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "e3fbc0ed-5008-488c-9435-64bcd067e76a")
+	)
+	(gr_text "Formula Student ENSEA\nArthur VENTURA\nBMS"
+		(at 165.5 132.5 90)
+		(layer "F.SilkS")
+		(uuid "a452a1bb-df3a-45c3-b611-1f78b1a1e4dd")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 99.6 80.8)
