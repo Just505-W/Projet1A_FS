@@ -6,19 +6,19 @@
  */
 
 
+#include "LEDs.h"
+
+extern UART_HandleTypeDef huart2;
 
 led = 0;
 
-while (1){
+void Led_blink(){
 	HAL_Delay(250);
-	led =1-led; //allume la led
+	led =1-led;
 	HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, led);
 
 }
 
-
-extern UART_HandleTypeDef huart2;
-
 void loop(void){
-	int led=0;
+	Led_blink();
 }

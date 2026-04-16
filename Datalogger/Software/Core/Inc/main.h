@@ -57,19 +57,29 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define LED_Status_1_Pin GPIO_PIN_0
+#define LED_Status_1_GPIO_Port GPIOF
+#define LED_Status_2_Pin GPIO_PIN_1
+#define LED_Status_2_GPIO_Port GPIOF
+#define Test_PB_Pin GPIO_PIN_0
+#define Test_PB_GPIO_Port GPIOA
+#define SD_CS_Pin GPIO_PIN_4
+#define SD_CS_GPIO_Port GPIOA
 #define SD_SPI1_SCK_Pin GPIO_PIN_5
 #define SD_SPI1_SCK_GPIO_Port GPIOA
 #define SD_SPI1_MISO_Pin GPIO_PIN_6
 #define SD_SPI1_MISO_GPIO_Port GPIOA
 #define SD_SPI1_MOSI_Pin GPIO_PIN_7
 #define SD_SPI1_MOSI_GPIO_Port GPIOA
-#define Debug_SWCLK_Pin GPIO_PIN_13
-#define Debug_SWCLK_GPIO_Port GPIOA
-#define Debug_SWDIO_Pin GPIO_PIN_14
+#define Debug_SWDIO_Pin GPIO_PIN_13
 #define Debug_SWDIO_GPIO_Port GPIOA
+#define Debug_SWCLK_Pin GPIO_PIN_14
+#define Debug_SWCLK_GPIO_Port GPIOA
 
 /* USER CODE BEGIN Private defines */
-
+#define SD_SPI_HANDLE hspi2
+#define SD_CS_GPIO_Port GPIOA
+#define SD_CS_Pin GPIO_PIN_4
 /* USER CODE END Private defines */
 
 #ifdef __cplusplus
