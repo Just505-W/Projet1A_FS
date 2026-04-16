@@ -17,6 +17,10 @@ Datalogger (en continu) :
 - tout mettre dans carte SD
 
 
+Resources : 
+https://stm32world.com/wiki/STM32_CAN
+
+
 
 
 
