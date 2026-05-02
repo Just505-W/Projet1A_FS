@@ -2,6 +2,12 @@ Voici ce qu'il faut mettre en gros sur le Powerpoint, il n'y a pas beoissn de be
 
 - Cahier des Charges
 
+**Carte Odomètre** : 
+
+**Carte Datalogger** : 
+
+**Carte jsp** : 
+
 
 - Ce qu'on a fait 
 
@@ -9,7 +15,7 @@ Voici ce qu'il faut mettre en gros sur le Powerpoint, il n'y a pas beoissn de be
 - Ce qui marche
 
 
-- Déroulé des ection au cours du semestre 
+- Déroulé des actions au cours du semestre 
 
 
 
