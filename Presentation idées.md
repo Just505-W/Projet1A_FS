@@ -1,4 +1,6 @@
 Canva : https://canva.link/0uk636tz1yvogp6
+Rapport intermédiaire : https://docs.google.com/document/d/1d9q62ilJAprqRzs1ScIMSz4JHT94MNPA1eBYzZVJNls/edit?usp=sharing
+
 
 Voici ce qu'il faut mettre en gros sur le Powerpoint, il n'y a pas beoissn de beaucoup de slides : 
 
