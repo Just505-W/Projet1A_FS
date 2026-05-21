@@ -96,10 +96,10 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  void setup();
+  setup();
   while (1)
   {
-	  void loop();
+	 loop();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
