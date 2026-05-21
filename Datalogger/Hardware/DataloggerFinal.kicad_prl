@@ -16,17 +16,17 @@
       "zones": 0.6
     },
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
-      "text": true,
+      "otherItems": false,
+      "pads": false,
+      "text": false,
       "tracks": true,
-      "vias": true,
-      "zones": true
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       "vias",
@@ -50,7 +50,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+    "visible_layers": "00000000_00000000_0fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Odometre_Schematic.kicad_prl",
+    "filename": "datalogger2.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -88,16 +88,16 @@
       9
     ],
     "col_widths": [
-      222,
-      207,
-      143,
-      143,
-      144,
-      191,
-      140,
-      149,
-      136,
-      136
+      186,
+      171,
+      123,
+      122,
+      123,
+      161,
+      119,
+      126,
+      112,
+      112
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

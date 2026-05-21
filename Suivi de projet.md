@@ -103,7 +103,32 @@ Tranceiver CAN : 799-0228 \
 
 
 
+## 2 Avril
 
+Campus Day donc pas d'avancées
+
+
+## 9 avril 2026
+
+Soudage des dernier composants des cartes 
+
+Coté Software : 
+- début de programation de la carte SD poru le datalogger (Amélie)
+- Début d'initialisation du bus can de l'odomètre (Bastien)
+
+
+Test des cartes avec les générateurs : 
+- odomètre : complation d'un programme simple pour tester les leds ==> vérifier le fonctionnement du PCB\\ l'odomètre fonctionne
+- datalogger : chauffe anormalement, court circuit potentiel 
+
+
+## 16 Avril 2026
+
+But Arthur : finir la schématique du dernier PCB - BMS - (globalment similaire à l'odomètre en changeant 1 ou 2 composants)
+
+Continuation des programmes odomètre/SD carte
+
+Tentative de comprendre ce qui ne marche pas avec le datalogger (déssoudage, tests, etc...)
 
 
 
