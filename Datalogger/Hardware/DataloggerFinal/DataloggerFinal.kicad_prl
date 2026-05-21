@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "datalogger2.kicad_prl",
+    "filename": "DataloggerFinal.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -88,16 +88,16 @@
       9
     ],
     "col_widths": [
-      186,
-      171,
-      123,
-      122,
-      123,
-      161,
-      119,
-      126,
-      112,
-      112
+      222,
+      207,
+      143,
+      143,
+      144,
+      191,
+      140,
+      149,
+      136,
+      136
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
