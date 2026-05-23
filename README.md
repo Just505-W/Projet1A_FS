@@ -33,9 +33,9 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 ## Rôles
 
-|Chef de projet|Odométrie|Datalogger|Software|
-|:-:|:-:|:-:|:-:|
-|Justine|Athénaïs \\ Arthur|Aïssa \\ Joseph|Amélie \\ Bastien|
+|Chef de projet|Odométrie|Datalogger|BMS|Software|
+|:-:|:-:|:-:|:-:|:-:|
+|Justine|Athénaïs|Aïssa \\ Joseph|Arthur|Amélie \\ Bastien|
 
 ## Odométrie Spécifications :
 
@@ -59,3 +59,13 @@ Le projet se concentre sur la conception et la fabrication de 3 PCB:
 * 2 boutons poussoir :
 * 2 LED (LED de fonctionnement et de test) : LED CMS  (code : 466-3863 - RS)
 
+## Gestionnaire de Batterie (BMS) :
+
+### Composants nécessaires + Datasheet :
+
+* Microcontrôleur: STM32C092FCP6 (code : 4676916 - Farnell)
+* Régulateur de tension : (code : 197-7195P - RS)
+* 4 connecteurs d'entrée/sortie :
+* 2 boutons poussoir : \~Interrupteur tactile traversant (code : 682-1254 - RS)\~
+* 2 LED (LED de fonctionnement et de test) : (code : 466-3863 - RS)
+* capteur à effet hall 
