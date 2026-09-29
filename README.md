@@ -28,7 +28,8 @@ Ce projet a pour objectif de réaliser des composants utiles au bon fonctionneme
 Le projet se concentre sur la conception et la fabrication de 3 PCB:
 
 * Un capteur d'**Odométrie** : il calcule la vitesse de rotation des roues de la voitures et la transmet au bus CAN.
-* Un capteur **ToF** (Time of flight) : il calcule les distances par rapport aux objets environnants et doit pouvoir assurer un arrêt de sécurité.
+* Un capteur **BMS** (battery management system) : un système électronique permettant d’indiquer au conducteur la charge de la batterie en temps réel.
+
 * Un **Datalogger**:  il récupère les données du bus CAN en temps réel et les stock dans un carte SD, qui servira de "boîte noire" en cas de destruction de l'appareil. Il sera également doté d'une application codée en Java (référence à notre super cours de **programmation orientée objet**) afin d'avoir une interface graphique utile à la conduite.
 
 ## Rôles
